@@ -82,3 +82,7 @@
 	path = bundle/clam
 	url = https://github.com/sjl/clam.vim.git
 	ignore = untracked
+[submodule "bundle/shell"]
+	path = bundle/shell
+	url = https://github.com/xolox/vim-shell
+	ignore = untracked
